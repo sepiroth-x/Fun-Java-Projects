@@ -229,6 +229,7 @@ public class RNGFrame extends javax.swing.JFrame {
         restartButton.setEnabled(false);
         rngDisplayLabel.setText("-----------------");
         attemptCounter.setText("0");
+        inputTF.setText("0");
         RNG = 0;
         attempts = 0;
          
