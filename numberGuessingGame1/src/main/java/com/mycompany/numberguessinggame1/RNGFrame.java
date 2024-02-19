@@ -158,7 +158,7 @@ public class RNGFrame extends javax.swing.JFrame {
         // TODO add your handling code here:
         
         indicatorLabel.setText("NUMBER GENERATED! GUESS between 1~100!");
-        rngDisplayLabel.setText("?");
+        rngDisplayLabel.setText("???");
         
          RNG = (int) (Math.random() * 100 + 1);
          
